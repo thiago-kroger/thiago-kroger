@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Thiago Kroger 😁
+## Olá, sou o Thiago Kroger, bem-vindo(a) ao perfil meu perfil! 😁
 
  <div>
    <a href="https://github.com/thiago-kroger">
-   <img height="156em" src="https://github-readme-stats.vercel.app/api?username=thiago-kroger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-kroger&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiago-kroger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-kroger&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
