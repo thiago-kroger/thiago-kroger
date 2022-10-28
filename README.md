@@ -1,4 +1,4 @@
-## Olá, sou o Thiago Kroger, bem-vindo(a) ao perfil meu perfil! 😁
+## Olá, sou o Thiago Kroger, bem-vindo(a) ao meu perfil! 😁
 
  <div>
    <a href="https://github.com/thiago-kroger">
